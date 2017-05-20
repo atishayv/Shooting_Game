@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin : 0px;
+}
+        
+        
+.titleCls{
+   	height: 6%;
+	text-align: center;
+    padding-top: 1%;
+	font-weight: bold;
+	font-size: x-large;
+}
+	
+#playArea{
+	  margin-left: 174px;
+}

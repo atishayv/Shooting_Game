@@ -1,4 +1,4 @@
-package com.aquacan.launch;
+package com.shooting.launch;
 
 import java.io.File;
 
